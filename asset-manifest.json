@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactApp/static/css/main.9f389567.css",
-    "main.js": "/ReactApp/static/js/main.b5197413.js",
+    "main.css": "/ReactApp/static/css/main.eecaf2d8.css",
+    "main.js": "/ReactApp/static/js/main.f33f117a.js",
     "static/media/tutter-tutter-the-mouse.gif": "/ReactApp/static/media/tutter-tutter-the-mouse.6129c501f117291cc787.gif",
     "static/media/defaultAvatar.png": "/ReactApp/static/media/defaultAvatar.555c1f05e0f999bfc424.png",
     "static/media/logo2.png": "/ReactApp/static/media/logo2.e304817c6137f87d0e7f.png",
     "static/media/defaultImage.jpg": "/ReactApp/static/media/defaultImage.2e01288c0c1a3f24d743.jpg",
     "index.html": "/ReactApp/index.html",
-    "main.9f389567.css.map": "/ReactApp/static/css/main.9f389567.css.map",
-    "main.b5197413.js.map": "/ReactApp/static/js/main.b5197413.js.map"
+    "main.eecaf2d8.css.map": "/ReactApp/static/css/main.eecaf2d8.css.map",
+    "main.f33f117a.js.map": "/ReactApp/static/js/main.f33f117a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f389567.css",
-    "static/js/main.b5197413.js"
+    "static/css/main.eecaf2d8.css",
+    "static/js/main.f33f117a.js"
   ]
 }
